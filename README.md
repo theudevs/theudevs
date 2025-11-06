@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Matheus Alves</h1>
+<h1 align="center"> Olá, eu sou o Matheus Alves</h1>
 
 <p align="center">
   🎓 Estudante de <strong>Ciência da Computação</strong> na <strong>PUC Goiás</strong><br>
