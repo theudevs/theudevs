@@ -55,6 +55,12 @@ Me chamo **Matheus Alves Severino**, tenho 20 anos e sou natural de Goiás. Atua
 <br>
 
 ---
+<div align="center">
+  
+![GitHub Snake dark](https://github.com/theudevs/theudevs/blob/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://github.com/theudevs/theudevs/blob/output/snake.svg#gh-light-mode-only)
+
+</div>
 
 ### 📊 Estatísticas do GitHub 
 
