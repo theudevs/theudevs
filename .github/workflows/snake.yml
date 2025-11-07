@@ -1,34 +1,38 @@
 name: Generate Snake
 
 on:
-  schedule: # roda automaticamente a cada 24h
+  schedule:            # roda 1x por dia (meia-noite UTC)
     - cron: "0 0 * * *"
-  workflow_dispatch: # permite rodar manualmente
-  push:
-    branches:
-      - main
+  workflow_dispatch:   # permite rodar manualmente
+  push:                # também roda quando você commitar na main
+    branches: ["main"]
+
+permissions:
+  contents: write      # precisa para publicar na branch "output"
 
 jobs:
   build:
-    name: Generate GitHub contribution snake
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Generate snake animation
+      - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: theudevs
+          github_user_name: theudevs      # <-- seu usuário GitHub
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      - name: Push snake animation to the output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
