@@ -3,13 +3,13 @@
 <p align="center">
   🎓 Estudante de <strong>Ciência da Computação</strong> na <strong>PUC Goiás</strong><br>
   💻 Apaixonado por <strong>dados</strong> e <strong>desenvolvimento de software</strong><br>
-  🌎 Natural de <strong>Goiás</strong> | 20 anos
+  🌎 Natural de <strong>Goiás</strong> | 21 anos
 </p>
 
 <br>
 
 ### 🧠 Sobre mim
-Me chamo **Matheus Alves Severino**, tenho 20 anos e sou natural de Goiás. Atualmente curso **Ciência da Computação na PUC Goiás**. Tenho afinidade pelas áreas de **engenharia de dados** e **desenvolvimento de software**, buscando sempre aprender e aplicar novos conhecimentos em projetos práticos. Meu objetivo profissional é crescer nessas áreas, unindo lógica, análise e criatividade para construir soluções eficientes.
+Me chamo **Matheus Alves Severino**, tenho 21 anos e sou natural de Goiás. Atualmente curso **Ciência da Computação na PUC Goiás**. Tenho afinidade pelas áreas de **engenharia de dados** e **desenvolvimento de software**, buscando sempre aprender e aplicar novos conhecimentos em projetos práticos. Meu objetivo profissional é crescer nessas áreas, unindo lógica, análise e criatividade para construir soluções eficientes.
 
 <br>
 
