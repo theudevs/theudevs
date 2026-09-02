@@ -40,15 +40,22 @@ Me chamo **Matheus Alves Severino**, tenho 21 anos e sou natural de Goiás. Atua
 
   <img alt="C" title="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" style="margin: 10px;"/>
   <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin: 10px;"/>
+  <img alt="Ruby" title="Ruby" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" style="margin: 10px;" />
   <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin: 10px;"/>
+  
   <img alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin: 10px;"/>
   <img alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin: 10px;"/>
   <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 10px;"/>
+  
+  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="margin: 10px;"/>
   <img alt="Bootstrap" title="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="margin: 10px;"/>
+  <img alt="Rails" title="Rails" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" style="margin: 10px;" />
+  
   <img alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" style="margin: 10px;"/>
+  <img alt="Postgres" title="Postgres" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="margin: 10px;"/>
+  
   <img alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="margin: 10px;"/>
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin: 10px;"/>
-  <img alt="Postgres" title="Postgres" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="margin: 10px;"/>
 
 </div>
 
